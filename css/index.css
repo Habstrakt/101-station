@@ -73,7 +73,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("/image/header-bg.png");
+  background-image: url("image/header-bg.png");
   background-repeat: no-repeat;
   background-size: auto;
   background-position: center center;
