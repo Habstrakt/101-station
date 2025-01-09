@@ -73,7 +73,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("image/header-bg.png");
+  background-image: url("/image/header-bg.png");
   background-repeat: no-repeat;
   background-size: auto;
   background-position: center center;
@@ -346,6 +346,11 @@ body {
   .rounded-map {
     display: none;
   }
+}
+
+.news-link {
+  color: white;
+  border-bottom: 1px solid white;
 }
 
 #myBtn {
